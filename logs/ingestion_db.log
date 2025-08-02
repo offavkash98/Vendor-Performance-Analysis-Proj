@@ -84,3 +84,27 @@ Total Time Taken : 10.4114186724027 minutes
 2025-08-02 16:09:34,656 - ERROR - No such comm target registered: jupyter.widget.control
 2025-08-02 16:09:34,673 - WARNING - No such comm: 4c5b74e8-532d-407a-af0d-c2bda886d2fe
 2025-08-02 16:09:34,676 - DEBUG - Current comms: []
+2025-08-02 17:57:08,091 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-02 17:57:08,141 - WARNING - No such comm: 481b6c30-844e-43cd-ab35-eaaf506d239c
+2025-08-02 17:57:08,143 - DEBUG - Current comms: []
+2025-08-02 17:57:09,479 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-02 17:57:09,496 - WARNING - No such comm: 50627c7c-5e8f-4a31-b12b-9cc4103b8ab2
+2025-08-02 17:57:09,497 - DEBUG - Current comms: []
+2025-08-02 19:33:14,113 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-02 19:33:14,126 - WARNING - No such comm: 87d500e8-51b5-4ca6-9ac5-304ed3940893
+2025-08-02 19:33:14,128 - DEBUG - Current comms: []
+2025-08-02 19:33:14,172 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-02 19:33:14,182 - WARNING - No such comm: 5c02da5f-079e-4771-86fa-eb297748c81d
+2025-08-02 19:33:14,183 - DEBUG - Current comms: []
+2025-08-02 21:10:24,208 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-02 21:10:24,238 - WARNING - No such comm: ff5e3beb-a480-43c8-887e-33199578966b
+2025-08-02 21:10:24,240 - DEBUG - Current comms: []
+2025-08-02 21:10:25,132 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-02 21:10:25,151 - WARNING - No such comm: 27ca5b53-2f78-4b8c-96cb-49a810fcdb52
+2025-08-02 21:10:25,153 - DEBUG - Current comms: []
+2025-08-02 22:42:44,166 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-02 22:42:44,187 - WARNING - No such comm: ce52094f-9cbe-4462-b0a3-ef8b5f5a68f8
+2025-08-02 22:42:44,188 - DEBUG - Current comms: []
+2025-08-02 22:42:44,356 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-02 22:42:44,562 - WARNING - No such comm: c4061643-2a9d-44b0-8dd1-ee1fee3fdbde
+2025-08-02 22:42:44,564 - DEBUG - Current comms: []
