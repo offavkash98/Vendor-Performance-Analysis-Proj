@@ -108,3 +108,20 @@ Total Time Taken : 10.4114186724027 minutes
 2025-08-02 22:42:44,356 - ERROR - No such comm target registered: jupyter.widget.control
 2025-08-02 22:42:44,562 - WARNING - No such comm: c4061643-2a9d-44b0-8dd1-ee1fee3fdbde
 2025-08-02 22:42:44,564 - DEBUG - Current comms: []
+2025-08-02 23:33:57,339 - INFO - Ingesting begin_inventory.csv in db
+2025-08-02 23:34:03,518 - INFO - Ingesting end_inventory.csv in db
+2025-08-02 23:34:20,895 - INFO - Ingesting purchases.csv in db
+2025-08-02 23:35:57,574 - INFO - Ingesting purchase_prices.csv in db
+2025-08-02 23:36:55,813 - INFO - Ingesting sales.csv in db
+2025-08-02 23:46:45,295 - INFO - Ingesting begin_inventory.csv in db
+2025-08-02 23:46:56,753 - INFO - Ingesting end_inventory.csv in db
+2025-08-02 23:47:21,144 - INFO - Ingesting purchases.csv in db
+2025-08-02 23:50:40,972 - INFO - Ingesting purchase_prices.csv in db
+2025-08-02 23:53:00,001 - INFO - Ingesting sales.csv in db
+2025-08-03 00:06:21,096 - INFO - Ingesting vendor_invoice.csv in db
+2025-08-03 00:06:21,351 - INFO - -----------Ingestion Complete------------
+2025-08-03 00:06:21,351 - INFO - 
+Total Time Taken : 19.622795701026917 minutes
+2025-08-03 00:06:21,495 - ERROR - No such comm target registered: jupyter.widget.control
+2025-08-03 00:06:21,519 - WARNING - No such comm: 76a7592b-6e95-40b9-a3c7-e2858c87823d
+2025-08-03 00:06:21,520 - DEBUG - Current comms: []
